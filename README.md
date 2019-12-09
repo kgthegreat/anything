@@ -1,6 +1,6 @@
 # Introduction
 
-A webserver for a success code no matter what (or upto /foo/bar/gaz)
+An http server for a success code no matter what (or upto /foo/bar/gaz)
 
 ## Build
 
