@@ -14,4 +14,6 @@ A webserver for a success code no matter what (or upto /foo/bar/gaz)
 
 `./anything -port=8081`
 
-Hat tip : Darrell Mozingo
+## Hat tip 
+
+Requested by [Darrell Mozingo] (https://github.com/DarrellMozingo)
